@@ -31,10 +31,7 @@ function page() {
  
  
  
- 
- const audio= useRef("mmdeng")
- 
-    audio.current.;
+
   
   return (
     <div>
@@ -49,9 +46,6 @@ function page() {
 </Alert>
 
 
-<audio ref={mmdeng} loop autoPlay> 
-  <source src="%PUBLIC_URL%/music.mp3" type="audio/mpeg"/>
-</audio>
 
 
 
