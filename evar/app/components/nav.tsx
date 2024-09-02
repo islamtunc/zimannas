@@ -16,93 +16,18 @@ function BasicExample() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="/">Anasayfa</Nav.Link>
-            <NavDropdown title="Felsefe" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/jiriyacekiri/">Kitaplık/Pirtûkxane</NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/referans">
-                Seçmeler
-              </NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/uygulama">
-              yazarlar</NavDropdown.Item>
-
-              <NavDropdown.Item href="hizmetler/uygulama">
-              ...</NavDropdown.Item>
-            </NavDropdown>
 
 
+            <Nav.Link href="/felsefe">Felsefe</Nav.Link>
 
+            <Nav.Link href="/sinema">Sinema</Nav.Link>
 
-            <NavDropdown title="Sinema" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/jiriyacekiri/">Kitaplık/Pirtûkxane</NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/referans">
-                Seçmeler
-              </NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/uygulama">
-              yazarlar</NavDropdown.Item>
+            <Nav.Link href="/tarih">Edebiyat</Nav.Link>
 
-              <NavDropdown.Item href="hizmetler/uygulama">
-              ...</NavDropdown.Item>
-            </NavDropdown>
+            <Nav.Link href="/sosyoloji">Sosyoloji</Nav.Link>
 
+            <Nav.Link href="/kultursanat">Kültür Sanat</Nav.Link>
 
-            <NavDropdown title="Edebiyat" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/jiriyacekiri/">Kitaplık/Pirtûkxane</NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/referans">
-                Seçmeler
-              </NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/uygulama">
-              yazarlar</NavDropdown.Item>
-
-              <NavDropdown.Item href="hizmetler/uygulama">
-              ...</NavDropdown.Item>
-            </NavDropdown>
-
-
-
-
-
-
-            
-            <NavDropdown title="Sosyoloji" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/jiriyacekiri/">Kitaplık/Pirtûkxane</NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/referans">
-                Seçmeler
-              </NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/uygulama">
-              yazarlar</NavDropdown.Item>
-
-              <NavDropdown.Item href="hizmetler/uygulama">
-              ...</NavDropdown.Item>
-            </NavDropdown>
-             
-
-    
-            <NavDropdown title="Tarih" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/jiriyacekiri/">Kitaplık/Pirtûkxane</NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/referans">
-                Seçmeler
-              </NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/uygulama">
-              yazarlar</NavDropdown.Item>
-
-              <NavDropdown.Item href="hizmetler/uygulama">
-              ...</NavDropdown.Item>
-            </NavDropdown>
-          
-
-
-
-
-            <NavDropdown title="Kültür ve Sanat" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/jiriyacekiri/">Kitaplık/Pirtûkxane</NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/referans">
-                Seçmeler
-              </NavDropdown.Item>
-              <NavDropdown.Item href="hizmetler/uygulama">
-              yazarlar</NavDropdown.Item>
-
-              <NavDropdown.Item href="hizmetler/uygulama">
-              ...</NavDropdown.Item>
-            </NavDropdown>
             <Nav.Link href="/iletisim">İletişim</Nav.Link>
 
           </Nav>

@@ -32,6 +32,7 @@ export default function RootLayout({
         
 
 
+<br></br><br></br>
       <h1 style={{fontStyle:"italic", font:"14",textAlign:"center"}}>Êvar</h1>
 
         <BasicExample/>
