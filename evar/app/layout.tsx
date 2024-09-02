@@ -28,8 +28,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body style={{background:"brown",color:"white"}} className={inter.className}>
+      <body style={{background:"brown",color:"white",justifyItems:"center"}} className={inter.className}>
         
+
+
+      <h1 style={{fontStyle:"italic", font:"14",textAlign:"center"}}>Êvar</h1>
+
         <BasicExample/>
         {children}
     
