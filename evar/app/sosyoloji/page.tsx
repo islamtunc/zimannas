@@ -3,10 +3,19 @@
 
 
 import React from 'react'
+import BasicExample from './nav'
 
 function page() {
   return (
-    <div>page</div>
+    <div>
+
+      <h1>Sosyoloji</h1>
+
+
+
+<BasicExample/>
+
+    </div>
   )
 }
 
