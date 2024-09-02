@@ -7,7 +7,7 @@ import Example from './nav'
 
 function page() {
   return (
-    <div>Sinema
+    <div>
 
 
 
