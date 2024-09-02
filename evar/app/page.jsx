@@ -7,6 +7,7 @@
 
 import { Container, Row,Col, Alert } from 'react-bootstrap'
 import KitchenSinkExample from './components/card'
+import BasicExample from './components/rupel';
 
 
 
@@ -47,12 +48,15 @@ function page() {
 
 
 
+<BasicExample/>
 
+<BasicExample/>
 
+<BasicExample/>
 
+<BasicExample/>
 
-
-
+<BasicExample/>
 
 
 
