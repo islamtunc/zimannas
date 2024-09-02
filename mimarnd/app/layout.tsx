@@ -17,8 +17,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 
 export const metadata: Metadata = {
-  title: "Mimar Nurullah Doğan",
-  description: "İç Mimarlık Hizmetleri",
+  title: "Êvar",
+  description: "Kovara Çand,Huner û Wêje yê..",
 };
 
 export default function RootLayout({
@@ -28,7 +28,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body style={{background:"black",color:"white"}} className={inter.className}>
+      <body style={{background:"brown",color:"white"}} className={inter.className}>
         
         <BasicExample/>
         {children}

@@ -41,7 +41,7 @@ export default function Footer() {
             <MDBCol md="3" lg="4" xl="3" className='mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>
                 <MDBIcon icon="gem" className="me-3" />
-              Mimar Nurullah Doğan
+              Êvar
               </h6>
               <p>
               </p>
