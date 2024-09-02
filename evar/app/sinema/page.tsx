@@ -3,10 +3,18 @@
 
 
 import React from 'react'
+import Example from './nav'
 
 function page() {
   return (
-    <div>page</div>
+    <div>Sinema
+
+
+
+
+
+      <Example/>
+    </div>
   )
 }
 
