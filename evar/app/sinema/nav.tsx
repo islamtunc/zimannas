@@ -6,6 +6,8 @@ import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Offcanvas from 'react-bootstrap/Offcanvas';
 
+import { Nav } from 'react-bootstrap';
+
 function Example() {
   const [show, setShow] = useState(false);
 
@@ -15,16 +17,28 @@ function Example() {
   return (
     <>
       <Button variant="primary" onClick={handleShow}>
-        Launch
+        içerik
       </Button>
 
       <Offcanvas show={show} onHide={handleClose}>
         <Offcanvas.Header closeButton>
-          <Offcanvas.Title>Offcanvas</Offcanvas.Title>
+          <Offcanvas.Title>Tüm Yazılar</Offcanvas.Title>
         </Offcanvas.Header>
         <Offcanvas.Body>
-          Some text as placeholder. In real life you can have the elements you
-          have chosen. Like, text, images, lists, etc.
+      
+        <Nav.Link href="/sosyoloji">...</Nav.Link>
+
+        <Nav.Link href="/sosyoloji">Sosyoloji</Nav.Link>
+
+
+
+
+
+        <Nav.Link href="/sosyoloji">Sosyoloji</Nav.Link>
+
+        <Nav.Link href="/sosyoloji">Sosyoloji</Nav.Link>
+
+
         </Offcanvas.Body>
       </Offcanvas>
     </>
