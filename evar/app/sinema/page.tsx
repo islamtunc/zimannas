@@ -22,11 +22,11 @@ function page() {
 
           <Col>
     <KitchenSinkExample nav="nivis "/>
-    
+    <br></br><br></br>
     <KitchenSinkExample nav="nivis "/>
-
+    <br></br><br></br>
     <KitchenSinkExample nav="nivis "/>
-
+    <br></br><br></br>
     <KitchenSinkExample nav="nivis "/>
 </Col>
 
@@ -36,10 +36,13 @@ function page() {
 
 <Col>
     <KitchenSinkExample nav="nivis "/>
-    
+    <br></br><br></br>    
+    <KitchenSinkExample nav="nivis "/>
+    <br></br><br></br>
     <KitchenSinkExample nav="nivis "/>
 
-    <KitchenSinkExample nav="nivis "/>
+
+    <br></br><br></br>
 
     <KitchenSinkExample nav="nivis "/>
 </Col>
