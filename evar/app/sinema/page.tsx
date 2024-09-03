@@ -3,7 +3,7 @@
 
 
 import React from 'react'
-import Example from './nav'
+import Example from '../psikoloji/nav'
 
 function page() {
   return (

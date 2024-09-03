@@ -1,20 +1,19 @@
-// Bismillahirahmaniraahim
+// Bismillahirahmanirahim
 
 
 
 import React from 'react'
-import BasicExample from './nav'
+import Example from './nav'
 
 function page() {
   return (
     <div>
 
-      <h1>Sosyoloji</h1>
+Selam Aleykum
 
 
 
-<BasicExample/>
-
+      <Example/>
     </div>
   )
 }
