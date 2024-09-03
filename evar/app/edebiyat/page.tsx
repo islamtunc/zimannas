@@ -3,20 +3,18 @@
 
 
 import React from 'react'
-import Example from '../psikoloji/nav'
+import Example from './nav'
 import KitchenSinkExample from '../components/card'
 
 function page() {
   return (
     <div>
 
-
-
+  
+<KitchenSinkExample/>
 
 
       <Example/>
-
-      <KitchenSinkExample nav="nivis "/>
     </div>
   )
 }
