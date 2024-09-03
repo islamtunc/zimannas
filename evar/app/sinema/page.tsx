@@ -12,11 +12,16 @@ function page() {
 
 
 
-
-
       <Example/>
 
       <KitchenSinkExample nav="nivis "/>
+    
+      <KitchenSinkExample nav="nivis "/>
+
+      <KitchenSinkExample nav="nivis "/>
+
+      <KitchenSinkExample nav="nivis "/>
+
     </div>
   )
 }
