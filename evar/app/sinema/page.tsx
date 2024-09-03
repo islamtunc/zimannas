@@ -5,7 +5,7 @@
 import React from 'react'
 import Example from '../psikoloji/nav'
 import KitchenSinkExample from '../components/card'
-import { Alert } from 'react-bootstrap'
+import { Alert, Container,Col,Row } from 'react-bootstrap'
 
 function page() {
   return (
@@ -16,14 +16,22 @@ function page() {
 <Alert>.....................</Alert>
       <Example/>
 
-      <KitchenSinkExample nav="nivis "/>
+      <Container> 
+        
+        <Row>
+
+          <Col>
+    <KitchenSinkExample nav="nivis "/>
     
-      <KitchenSinkExample nav="nivis "/>
+    <KitchenSinkExample nav="nivis "/>
 
-      <KitchenSinkExample nav="nivis "/>
+    <KitchenSinkExample nav="nivis "/>
 
-      <KitchenSinkExample nav="nivis "/>
-
+    <KitchenSinkExample nav="nivis "/>
+</Col>
+        </Row>
+         </Container>
+   
     </div>
   )
 }
