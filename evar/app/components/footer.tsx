@@ -48,7 +48,7 @@ export default function Footer() {
             </MDBCol>
 
             <MDBCol md="2" lg="2" xl="2" className='mx-auto mb-4'>
-              <h6 className='text-uppercase fw-bold mb-4'>Hakkımızda</h6>
+              <h6 className='text-uppercase fw-bold mb-4'></h6>
               <p>
                 <a href='#!' className='text-reset'>
                   
@@ -61,7 +61,7 @@ export default function Footer() {
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                Danışmanlık
+                
                 </a>
               </p>
               <p>
@@ -72,20 +72,18 @@ export default function Footer() {
             </MDBCol>
 
             <MDBCol md="3" lg="2" xl="2" className='mx-auto mb-4'>
-              <h6 className='text-uppercase fw-bold mb-4'>Müşteri Memnuniyeti</h6>
+              <h6 className='text-uppercase fw-bold mb-4'></h6>
               <p>
                 <a href='#!' className='text-reset'>
-                  Kısa zamanda kaliteli iş
                 </a>
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                  Bütçeye uygun ve çözümcü
                 </a>
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                  Estetik açıdan zengin sonuçlar
+                  
                 </a>
               </p>
               <p>
@@ -106,7 +104,7 @@ export default function Footer() {
            
               </p>
               <p>
-                <MDBIcon icon="phone" className="me-3" />  05549765692
+                <MDBIcon icon="phone" className="me-3" />  
               </p>
               <p>
                 <MDBIcon icon="print" className="me-3" />  

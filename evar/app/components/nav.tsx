@@ -16,6 +16,7 @@ function BasicExample() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="/">Anasayfa</Nav.Link>
+            <Nav.Link href="/psikoloji">Psikoloji</Nav.Link>
 
 
             <Nav.Link href="/felsefe">Felsefe</Nav.Link>

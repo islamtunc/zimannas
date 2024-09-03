@@ -12,7 +12,7 @@ import BasicExample from './components/rupel';
 
 
 
-
+import UncontrolledExample from './components/xer';
 
 
 
@@ -39,14 +39,15 @@ function page() {
 
      
 <Container>
-<Alert style={{justifyContent:'center',background:'white',margin:'7px'}}>
-<h1>Yapım Aşamasında</h1>  
 
 
 
-</Alert>
 
 
+
+
+
+<UncontrolledExample/>
 
 <BasicExample/>
 
