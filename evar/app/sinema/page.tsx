@@ -29,6 +29,22 @@ function page() {
 
     <KitchenSinkExample nav="nivis "/>
 </Col>
+
+
+
+
+
+<Col>
+    <KitchenSinkExample nav="nivis "/>
+    
+    <KitchenSinkExample nav="nivis "/>
+
+    <KitchenSinkExample nav="nivis "/>
+
+    <KitchenSinkExample nav="nivis "/>
+</Col>
+
+
         </Row>
          </Container>
    
