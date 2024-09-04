@@ -14,11 +14,10 @@ function page() {
 
 
 
-<Alert>.....................</Alert>
-      <Example/>
+ 
 
       <Container> 
-        
+        <br></br>
         <Row>
 
           <Col>
@@ -30,6 +29,12 @@ function page() {
     <br></br><br></br>
     <KitchenSinkExample nav="nivis "/>
 </Col>
+
+
+
+
+
+
 
 
 
