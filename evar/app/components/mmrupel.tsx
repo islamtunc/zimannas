@@ -1,6 +1,6 @@
 // Bismillahirahmanirahim
 
-
+"use client"
 
 import Pagination from 'react-bootstrap/Pagination';
 
