@@ -3,10 +3,9 @@
 
 
 import React from 'react'
-import Example from '../psikoloji/nav'
-import KitchenSinkExample from '../components/card'
+import Example from '../nav'
+import KitchenSinkExample from '../../components/card'
 import { Alert, Container,Col,Row } from 'react-bootstrap'
-import AdvancedExample from '../components/mmrupel'
 
 function page() {
   return (
@@ -50,14 +49,8 @@ function page() {
 
 
         </Row>
-
-        
-
-        
-
-        <AdvancedExample/>
          </Container>
-    
+   
     </div>
   )
 }
